@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				251,
+				99
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Vic idle"
+		},
+		{
+			"offsets": [
+				242,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Vic down"
+		},
+		{
+			"offsets": [
+				242,
+				99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Vic up"
+		},
+		{
+			"offsets": [
+				246,
+				99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Vic right"
+		},
+		{
+			"offsets": [
+				252,
+				99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Vic left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vic",
+	"position": [
+		1210,
+		200
+	],
+	"healthicon": "vic",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		255,
+		0
+	],
+	"camera_position": [
+		-270,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,134 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "blue anims trolled idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "blue anims trolled left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-18
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "blue anims trolled down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				62
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "blue anims trolled up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-7
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "blue anims trolled right miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				15,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1
+			],
+			"name": "blue anims trolled left"
+		},
+		{
+			"offsets": [
+				7,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1
+			],
+			"name": "blue anims trolled down"
+		},
+		{
+			"offsets": [
+				-39,
+				62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1
+			],
+			"name": "blue anims trolled up"
+		},
+		{
+			"offsets": [
+				-5,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1
+			],
+			"name": "blue anims trolled right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blue anims trollled",
+	"position": [
+		-240,
+		130
+	],
+	"healthicon": "icon_blue_trolled",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		189
+	],
+	"camera_position": [
+		140,
+		90
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

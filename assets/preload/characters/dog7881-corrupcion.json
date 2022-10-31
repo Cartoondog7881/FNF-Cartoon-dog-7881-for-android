@@ -1,0 +1,85 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cartoon dog 7881 corrupcion idle"
+		},
+		{
+			"offsets": [
+				2,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cartoon dog 7881 corrupcion left"
+		},
+		{
+			"offsets": [
+				-6,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cartoon dog 7881 corrupcion right"
+		},
+		{
+			"offsets": [
+				4,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"name": "cartoon dog 7881 corrupcion up"
+		},
+		{
+			"offsets": [
+				-3,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cartoon dog 7881 corrupcion down"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/cartoon dog 7881 corrupcion",
+	"position": [
+		180,
+		-210
+	],
+	"healthicon": "dog7881-corrupcion",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		206
+	],
+	"camera_position": [
+		-210,
+		-240
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

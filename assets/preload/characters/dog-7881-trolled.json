@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dog Trolled idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dog Trolled left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dog Trolled right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dog Trolled up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dog Trolled down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Cartoondog7881_get_trolled",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "dog-7881-trolled",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		40,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

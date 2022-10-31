@@ -1,0 +1,85 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Cartoondog7881 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Cartoondog7881 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Cartoondog7881 right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Cartoondog7881 up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Cartoondog7881 down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Cartoondog7881",
+	"position": [
+		130,
+		190
+	],
+	"healthicon": "dog7881",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		206
+	],
+	"camera_position": [
+		-190,
+		-360
+	],
+	"sing_duration": 4,
+	"scale": 2.6
+}

@@ -1,0 +1,152 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "blue anims morbian idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "blue anims morbian left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "blue anims morbian down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				-6
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "blue anims morbian up miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "blue anims morbian right miss"
+		},
+		{
+			"offsets": [
+				-10,
+				-2
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "blue anims morbian down"
+		},
+		{
+			"offsets": [
+				-73,
+				-6
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "blue anims morbian up"
+		},
+		{
+			"offsets": [
+				10,
+				1
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "blue anims morbian right"
+		},
+		{
+			"offsets": [
+				-30,
+				-6
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "blue anims morbian left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blue anims morbian",
+	"position": [
+		0,
+		170
+	],
+	"healthicon": "icon_blue",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

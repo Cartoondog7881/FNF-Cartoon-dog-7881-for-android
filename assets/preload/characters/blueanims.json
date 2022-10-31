@@ -1,0 +1,136 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "blueanims new idle"
+		},
+		{
+			"offsets": [
+				-9,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "blueanims new sing left miss"
+		},
+		{
+			"offsets": [
+				-10,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "blueanims new sing down miss"
+		},
+		{
+			"offsets": [
+				-6,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "blueanims new sing up miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "blueanims new sing right miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				2
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "blueanims new sing down"
+		},
+		{
+			"offsets": [
+				-9,
+				-6
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "blueanims new sing left"
+		},
+		{
+			"offsets": [
+				-48,
+				-7
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "blueanims new sing right"
+		},
+		{
+			"offsets": [
+				-8,
+				-10
+			],
+			"indices": [
+				0,
+				1
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "blueanims new sing up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Blue anims new",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "icon_blue",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

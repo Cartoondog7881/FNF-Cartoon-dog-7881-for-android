@@ -1,0 +1,85 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dog Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dog Note Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				2
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dog Note Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				26
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dog Note Up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dog Note Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Cartoondog_assets1",
+	"position": [
+		130,
+		190
+	],
+	"healthicon": "icon-dog-7881",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		206
+	],
+	"camera_position": [
+		-50,
+		-290
+	],
+	"sing_duration": 4,
+	"scale": 2.2
+}

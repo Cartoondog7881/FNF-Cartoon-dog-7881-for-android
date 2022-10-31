@@ -1,0 +1,136 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mr.cat idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Mr.cat left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-2
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Mr.cat down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Mr.cat up miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				20,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Mr.cat right miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-2
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mr.cat down",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mr.cat left",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mr.cat right",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mr.cat up",
+			"indices": [
+				0,
+				1
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mr.cat",
+	"position": [
+		0,
+		-240
+	],
+	"healthicon": "icon-mr.cat",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		3,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

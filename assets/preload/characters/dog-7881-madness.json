@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dog 7881 madness idle"
+		},
+		{
+			"offsets": [
+				-79,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dog 7881 madness sing up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-163,
+				-47
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dog 7881 madness sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-51,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dog 7881 madness sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-22
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dog 7881 madness sing right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/dog 7881 madness",
+	"position": [
+		-120,
+		40
+	],
+	"healthicon": "dog-madness",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		38,
+		255
+	],
+	"camera_position": [
+		170,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
