@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"lit night",
+			"dog7881",
+			[
+				33,
+				3,
+				242
+			]
+		],
+		[
+			"confused",
+			"dog7881",
+			[
+				33,
+				3,
+				242
+			]
+		],
+		[
+			"Cinophobia",
+			"face",
+			[
+				161,
+				161,
+				161
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "dog7881",
+	"difficulties": "",
+	"weekCharacters": [
+		"dog_blue",
+		"bf_blue",
+		"gf_blue"
+	],
+	"storyName": "so is a dog",
+	"weekName": "weekdog7881",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
